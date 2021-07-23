@@ -92,8 +92,7 @@ while True:
                 engine.say("IF IT IS DONE BY MISTAKE KINDLY RESTART THE OVEN")
                 engine.say("IT IS RECOMMENDED NOT TO USE THE OVEN TILL THE PROBLEM IS SOLVED")
                 engine.say("INCASE OF URGENCY YOU CAN CALL TO THE TECHNICIAN. KINDLY NOTE THE NUMBER")
-                engine.say("9 7 1 1 1 8 7 7 5 6  I REPEAT 9 7 1 1 1 8 7 7 5 6")
-                engine.say("or 8 0 0 5 5 3 8 1 2 4  I REPEAT 8 0 0 5 5 3 8 1 2 4")
+                engine.say("9*********4")
                 engine.runAndWait()
                 import SERVICE_MAIL
                 while True:
