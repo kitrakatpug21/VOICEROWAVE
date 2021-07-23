@@ -2,11 +2,11 @@
 import smtplib
 import pyttsx3
 ################## initialize #####################
-sender = 'voicerowave.major@gmail.com'
-receiver = 'kitrakatpug21@gmail.com'
+sender = 'vo***********or@srmist.edu.in'
+receiver = '************@gmail.com'
 message = "THIS IS TO INFORM YOU THAT THE LAST COMMAND SENT TO THE VOICROWAVE OVEN IS INVALID, THEREFORE THE COMMAND WILL NOT BE EXECUTED.\nPLEASE TRY AGAIN AFTER FEW MINUTE"
-username = 'voicerowave.major@gmail.com'  
-password = 'VOICEROWAVE123'
+username = "HIDDEN"  
+password = "HIDDEN"
 engine = pyttsx3.init()       ##Text to Speech Initialized
 engine.setProperty('rate', 160)
 voices = engine.getProperty('voices')
