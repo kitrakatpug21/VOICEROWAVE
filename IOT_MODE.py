@@ -14,10 +14,10 @@ voices = engine.getProperty('voices')
 ############ configuration ###########
 config = {
     "apiKey": "AIzaSyBxPS_eGqlJwyKcBDDF-b2JfTrrFKTiTEc",
-    "authDomain": "voicerowave.firebaseapp.com",
-    "databaseURL": "https://voicerowave.firebaseio.com",
+    "authDomain": "voicerowave.fire****app.com",
+    "databaseURL": "https://voicerowave.fire****io.com",
     "projectId": "voicerowave",
-    "storageBucket": "voicerowave.appspot.com",
+    "storageBucket": "voicerowave.********.com",
     "messagingSenderId": "771062305817"
   }
 ############ initialize #################
